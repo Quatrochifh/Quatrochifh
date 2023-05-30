@@ -2,8 +2,8 @@
 
 Seja Bem vindo ao meu GITHUB
 
-![99's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Quatrochifh&bg_color=30,009959,000&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Quatrochifh&bg_color=2,009959,0000&title_color=fff&text_color=fff)](https://github.com/Quatrochifh/github-readme-stats)
+![99's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Quatrochifh&bg_color=30,FF0000,000&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Quatrochifh&bg_color=2,FF0000,0000&title_color=fff&text_color=fff)](https://github.com/Quatrochifh/github-readme-stats)
 
  <h2>👨‍💻 MINHAS SKILLS 👨‍💻</h2>
 <div style="display: inline_block"><br>
